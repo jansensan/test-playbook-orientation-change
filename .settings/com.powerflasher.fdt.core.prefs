@@ -1,0 +1,31 @@
+#Thu Jun 07 12:04:26 EDT 2012
+AnesChanged=0
+com.powerflasher.fdt.core.CompatiblePlayers=AIR_Debug_Launcher
+com.powerflasher.fdt.core.CompilerArguments=-static-link-runtime-shared-libraries\=true\n-target-player\={playerVersion}\n-library-path+\="{flexSDK}/frameworks/locale/en_US"\n-default-size\=550,400
+com.powerflasher.fdt.core.DefaultOutputFolder=bin
+com.powerflasher.fdt.core.DefaultPlayer=AIR_Debug_Launcher
+com.powerflasher.fdt.core.Language=AS3
+com.powerflasher.fdt.core.PassClasspath=true
+com.powerflasher.fdt.core.PassExterns=false
+com.powerflasher.fdt.core.PassMainclass=true
+com.powerflasher.fdt.core.PassRsls=false
+com.powerflasher.fdt.core.PassSwcs=true
+com.powerflasher.fdt.core.PlatformType=MOBILE
+com.powerflasher.fdt.core.PlayerVersion=11.0
+com.powerflasher.fdt.core.ProjectTypeHint=AIR Mobile
+com.powerflasher.fdt.core.Runtime=AIR
+com.powerflasher.fdt.core.SdkName=BlackBerry Tablet OS SDK 2.0.0 for Adobe AIR
+com.powerflasher.fdt.core.mobile.BlackBerry.ACTIVE=true
+com.powerflasher.fdt.core.mobile.BlackBerry.AVAILABLE.EXTENSIONS=
+com.powerflasher.fdt.core.mobile.BlackBerry.DEPLOY.INSTALL.CHECK=false
+com.powerflasher.fdt.core.mobile.BlackBerry.DEPLOY.LOCATION=
+com.powerflasher.fdt.core.mobile.BlackBerry.DEPLOY.PRE.PACKAGE.LAUNCHER=OrientationChange
+com.powerflasher.fdt.core.mobile.BlackBerry.ENABLE.DIGITAL.SIGNING=true
+com.powerflasher.fdt.core.mobile.BlackBerry.EXTRA.PACKAGING.OPTIONS=
+com.powerflasher.fdt.core.mobile.BlackBerry.ICON.PATH.icon\ 86x86=
+com.powerflasher.fdt.core.mobile.BlackBerry.ICON.PATH.splash\ 1024x600=
+com.powerflasher.fdt.core.mobile.BlackBerry.ICON.PATH.splash\ 600x1024=
+com.powerflasher.fdt.core.mobile.BlackBerry.MOBILE.DESCRIPTOR=bin/OrientationChange-app.xml
+com.powerflasher.fdt.core.mobile.BlackBerry.MOBILE.DESCRIPTOR1=bin/bar-descriptor.xml
+com.powerflasher.fdt.core.mobile.BlackBerry.PACKAGE.CONTENT=bin/OrientationChange-app.xml > OrientationChange-app.xml;bin/bar-descriptor.xml > bar-descriptor.xml;bin/OrientationChange.swf > OrientationChange.swf;
+eclipse.preferences.version=1
