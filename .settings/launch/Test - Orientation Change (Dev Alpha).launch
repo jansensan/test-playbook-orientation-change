@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="com.powerflasher.fdt.ui.MobileApplicationGroup">
-<stringAttribute key="ADL_DESCRIPTOR_FILE" value="bin/OrientationChange-app.xml"/>
+<stringAttribute key="ADL_DESCRIPTOR_FILE" value="bin/test-playbook-orientation-change-app.xml"/>
 <stringAttribute key="ADL_SCREENSIZE" value="600x1024:600x1024"/>
 <intAttribute key="AIR_VIEWER_CONF" value="2"/>
 <stringAttribute key="ARGUMENTS" value="-static-link-runtime-shared-libraries=true&#10;-target-player={playerVersion}&#10;-library-path+=&quot;{flexSDK}/frameworks/locale/en_US&quot;&#10;-default-size=550,400"/>
-<stringAttribute key="BLACKBERRY_DEBUG_TARGET_ID" value="7c33bfed-6f81-480c-b103-c47402ad3090"/>
+<stringAttribute key="BLACKBERRY_DEBUG_TARGET_ID" value="55729f92-c594-42ce-89af-fa589e79745d"/>
 <booleanAttribute key="CLEAR_DATA" value="false"/>
 <intAttribute key="DEBUG_VIA" value="0"/>
 <booleanAttribute key="DISABLE_COMPILE_PROCESS" value="false"/>

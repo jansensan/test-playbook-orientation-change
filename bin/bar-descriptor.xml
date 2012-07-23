@@ -31,5 +31,9 @@
    		 description versionNumber tag. Must be an integer from 0 to 2^16-1 -->
   <!-- <buildId>1</buildId> -->
   <platformVersion>1.0.0.0</platformVersion>
+  <icon>
+    <image>AppIcons/icon86x86-icon.png</image>
+  </icon>
+  <author>Mat Janson Blanchet</author>
 </qnx>
 
